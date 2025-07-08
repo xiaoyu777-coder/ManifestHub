@@ -2,7 +2,7 @@
 
 Steam Depot Manifest Cache, but this repo is backup.
 
-Update time: `2025-06-24`(Won't update)
+Update time: `2025-06-24`(Won't be updated)
 
 ## Note for resellers
 
